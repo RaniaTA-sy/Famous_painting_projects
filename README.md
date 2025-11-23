@@ -9,6 +9,7 @@ Analysis project Made by My SQL workbench 8.0 CE
 - [Recommendations](#recommendations)
 
 ## Project Overview
+---
 This project analyses a museum's collection of paintings, focusing on details like display status, museum operations, and painting popularity. It involves querying data to find missing or incorrect information, top artworks, and museum activity patterns. The goal is to gain insights into the museum’s collection, operations, and visitor engagement.
 ### Data Sources
 
@@ -29,6 +30,7 @@ This project analyses a museum's collection of paintings, focusing on details li
 ##  Data Analysis
  includes requirements and SQL syntax for each question.    
 Questions:
+---
 use famous_painting;
 1.Assign all the paintings that are not displayed in any museum ?
 ```sql
